@@ -2,8 +2,6 @@
 
 ## 👨‍💻 About Me
 
-Hello there! I'm Murat, a passionate full-stack developer who loves building innovative and user-friendly web applications. I have a strong foundation in both front-end and back-end technologies and enjoy working on a variety of projects that challenge and expand my skill set.
-
 Hello there! I'm Baris, I'm a Devops intern and Software developer
 
 ## 🚀 Skills
